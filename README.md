@@ -1,4 +1,5 @@
-This folder contains files for: Analyze Bay Area Bike Share Data.
+This assignment was given by Consulting and analytics Club, IIT Guwahati
+This folder contains files for: Analyze Bay Area Bike Share Data. 
 
 Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
 
